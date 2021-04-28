@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67b49039-c7bd-4529-aa63-74ae959b5912" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rgzOLG4wfjSEeB1nFR3LvCRbpP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Spot\PycharmProjects\407_Project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Calculator_Presentation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="407_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Spot\PycharmProjects\407_Project\Calculator_Module\Calculator_Presentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="407_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Microphone_Abstraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="407_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Spot\PycharmProjects\407_Project\Microphone_Module\Microphone_Abstraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.Calculator_Presentation" />
+        <item itemvalue="Python.Microphone_Abstraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67b49039-c7bd-4529-aa63-74ae959b5912" name="Default Changelist" comment="" />
+      <created>1619412487096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619412487096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619444280350">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080/-1080.-378.1080.1880@62.0.1858.1080" timestamp="1619444280350" />
+    <state x="771" y="295" key="FileChooserDialogImpl" timestamp="1619455143804">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="295" key="FileChooserDialogImpl/62.0.1858.1080/-1080.-378.1080.1880@62.0.1858.1080" timestamp="1619455143804" />
+    <state width="1837" height="300" key="GridCell.Tab.0.bottom" timestamp="1619491370048">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="300" key="GridCell.Tab.0.bottom/62.0.1858.1080/-1080.-378.1080.1880@62.0.1858.1080" timestamp="1619491370048" />
+    <state width="1837" height="300" key="GridCell.Tab.0.center" timestamp="1619491370048">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="300" key="GridCell.Tab.0.center/62.0.1858.1080/-1080.-378.1080.1880@62.0.1858.1080" timestamp="1619491370048" />
+    <state width="1837" height="300" key="GridCell.Tab.0.left" timestamp="1619491370048">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="300" key="GridCell.Tab.0.left/62.0.1858.1080/-1080.-378.1080.1880@62.0.1858.1080" timestamp="1619491370048" />
+    <state width="1837" height="300" key="GridCell.Tab.0.right" timestamp="1619491370048">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1837" height="300" key="GridCell.Tab.0.right/62.0.1858.1080/-1080.-378.1080.1880@62.0.1858.1080" timestamp="1619491370048" />
+    <state x="687" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1619491049245">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="687" y="364" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/-1080.-378.1080.1880@62.0.1858.1080" timestamp="1619491049245" />
+  </component>
+</project>
